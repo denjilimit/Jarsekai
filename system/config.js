@@ -11,19 +11,19 @@ global.setting = {
 
 // Owner
 global.owner = [
-    ['6282148864989', 'Jarsépay', true]
+    ['601114083908', 'kyy_bot', true]
 ]
 
 // Info
 global.info = {
-    namaowner: 'Jarsépay',
-    nomorowner: '6282148864989',
+    namaowner: 'kyy_bot',
+    nomorowner: '601114083908',
     packname: 'Sticker by ',
-    author: 'Jarsépay',
-    namabot: 'Jarsekai',
-    wm: 'I M  J A R S E K A I',
+    author: 'kyy',
+    namabot: 'KYYBOT',
+    wm: 'I M  K Y Y',
     stickpack: 'Created by',
-    stickauth: 'Jarsépay'
+    stickauth: 'KYY'
 }
 
 // Thumbnail 
